@@ -21,7 +21,7 @@ Game Play Rule:
 Note:
   1) The Card Game Source file refers to "Card Game Source Files/CardGame.py".
 2) The Test Case Source file refers to "Card Game Source Files/test_case.py"
-3) The game is documented in the file "Card Game Documentation .pdf"
+3) The game is documented in the file "Card Game Documentation.pdf"
 4) The test cases are sumarized in the file "Test Cases.pdf"
 5) The code interview question is in the file "Code Interview Question.pdf"
 
